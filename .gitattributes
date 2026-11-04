@@ -1,2 +1,7 @@
 resourcepacks/§6Dynamic§9Surroundings[[:space:]]§2R3.zip filter=lfs diff=lfs merge=lfs -text
 resourcepacks/loadingbackgrounds-echoes-untamed.zip filter=lfs diff=lfs merge=lfs -text
+*.jar  filter=lfs diff=lfs merge=lfs -text
+*.zip  filter=lfs diff=lfs merge=lfs -text
+*.ogg  filter=lfs diff=lfs merge=lfs -text
+*.mp4  filter=lfs diff=lfs merge=lfs -text
+config/fancymenu/assets/** filter=lfs diff=lfs merge=lfs -text
